@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Feb 2018 16:30:08 at http://themes.rokaux.com/unishop/v2.2/template-1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themes.rokaux.com/unishop/v2.2/template-1/ -O1 "C:\xampp\htdocs\unishop\unishop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:32:21	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from themes.rokaux.com/unishop/v2.2/template-1/)
+16:34:15	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/checkout.html (from themes.rokaux.com/unishop/v2.2/template-1/)
+16:34:15	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/account-open-ticket.html (from themes.rokaux.com/unishop/v2.2/template-1/)
+16:35:04	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/mobile-app.html (from themes.rokaux.com/unishop/v2.2/template-1/)
+16:35:04	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/services.html (from themes.rokaux.com/unishop/v2.2/template-1/)
+16:36:58	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/"https://player.vimeo.com/video/138235312?color=ffffff&title=0&byline=0&portrait=0%22 (from themes.rokaux.com/unishop/v2.2/template-1/home-collection-showcase.html)
+16:36:58	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/"https://player.vimeo.com/video/138290617?color=ffffff&title=0&byline=0&portrait=0%22 (from themes.rokaux.com/unishop/v2.2/template-1/home-collection-showcase.html)
+16:36:58	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/orderDetails (from themes.rokaux.com/unishop/v2.2/template-1/order-tracking.html)
+16:36:58	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/docs/index.html (from themes.rokaux.com/unishop/v2.2/template-1/docs/dev-setup.html)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/components/index.html (from themes.rokaux.com/unishop/v2.2/template-1/components/accordion.html)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/components/"https://www.youtube-nocookie.com/embed/n2CCz4x2xGE?rel=0%22 (from themes.rokaux.com/unishop/v2.2/template-1/components/gallery.html)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/components/"https://player.vimeo.com/video/70022464?color=ffffff&title=0&byline=0&portrait=0%22 (from themes.rokaux.com/unishop/v2.2/template-1/components/gallery.html)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/popper.js (from themes.rokaux.com/unishop/v2.2/template-1/js/vendor.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/hqdefault.jpg (from themes.rokaux.com/unishop/v2.2/template-1/js/vendor.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/styles-2ecc71.min.css (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/logo-2ecc71.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/styles-f39c12.min.css (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/logo-f39c12.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/styles-e74c3c.min.css (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/logo-e74c3c.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/styles.min.css (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/logo-light-2ecc71.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/logo-light-f39c12.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/logo-light-e74c3c.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/payment_methods_alt.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+16:37:03	Error: 	"Not Found" (404) at link themes.rokaux.com/unishop/v2.2/template-1/payment_methods.png (from themes.rokaux.com/unishop/v2.2/template-1/customizer/customizer.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 40 seconds : 327 links scanned, 300 files written (15171387 bytes overall) [11966562 bytes received at 26014 bytes/sec], 4102824 bytes transferred using HTTP compression in 104 files, ratio 19%, 9.9 requests per connection
+(26 errors, 0 warnings, 0 messages)
